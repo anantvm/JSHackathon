@@ -1,2 +1,2 @@
 # JSHackathon
-Inspired Potato disease classification using CNN as a project
+Smart Potato Health Detection Using Convolutional Neural Networks
